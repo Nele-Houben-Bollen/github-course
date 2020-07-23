@@ -2,6 +2,7 @@
 Cursus Github
 
 This is a simple web project to test GIT.
+Test branches
 
 ##Introduction
 Introductie
