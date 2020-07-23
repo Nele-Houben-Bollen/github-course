@@ -17,4 +17,4 @@ Another change made.
 
 ##How To Contribute
 
-laatste test voor GIT
+laatste test voor GIT. Merge branches
