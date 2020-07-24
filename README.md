@@ -3,7 +3,7 @@ Teststukje toevoegen branches
 # github-course
 Cursus Github
 
-Test rebasing
+Test rebasing, then more changes from myfeaturebranch toevoegen
 
 ##Introduction
 Introductie
