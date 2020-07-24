@@ -1,7 +1,4 @@
 test Git Quick start demo
 
-Adding changes before rebasing conflict - extra na merge
-
->>>>>>> bac94b2... fb adding some trouble to start.txt
 
 Dit is een test ivm rebasing
