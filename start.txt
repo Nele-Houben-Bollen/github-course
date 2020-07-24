@@ -1,3 +1,5 @@
 test Git Quick start demo
 
+Adding changes before rebasing conflict
+
 Dit is een test ivm rebasing
