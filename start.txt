@@ -1,5 +1,5 @@
 test Git Quick start demo
 
-Adding changes before rebasing conflict
+Adding changes before rebasing conflict - dit wordt een conflict
 
 Dit is een test ivm rebasing
